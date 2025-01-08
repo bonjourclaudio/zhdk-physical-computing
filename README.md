@@ -1,3 +1,7 @@
+# Physical Computing | ZHdK IAD 2024 | Claudio Weckherlin
+Introduction, TBD
+
+**Table Of Contents**
 - [Physical Computing | ZHdK IAD 2024 | Claudio Weckherlin](#physical-computing---zhdk-iad-2024---claudio-weckherlin)
   * [07.01.2025](#07012025)
     + [00 introduction](#00-introduction)
@@ -7,8 +11,6 @@
     + [04 - Digital Input](#04---digital-input)
   * [08.01.2025](#08012025)
     + [01 - Light Sensor](#01---light-sensor)
-
-# Physical Computing | ZHdK IAD 2024 | Claudio Weckherlin
 
 ## 07.01.2025
 
