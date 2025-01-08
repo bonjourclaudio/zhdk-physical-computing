@@ -22,7 +22,7 @@ void loop() {
 
   int lightPixels = map(analogRead(potPin), 0, 1023, 0, 8);
 
-  for(int i=0; i< lightPixels; i++) { // For each pixel...
+  for(int i=0; i<= lightPixels; i++) { // For each pixel...
 
     pixels.setPixelColor(i, pixels.Color(0, 150, 0));
 
