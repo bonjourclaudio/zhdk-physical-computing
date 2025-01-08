@@ -1,6 +1,6 @@
 # Physical Computing | ZHdK IAD 2024 | Claudio Weckherlin
 
-## 07.01.2024
+## 07.01.2025
 
 ### 00 introduction
 TBD
@@ -27,4 +27,9 @@ Negative Logik -> PullUp Resistor -> Release goes to positive
 Positive Logik -> PullDown Resistor -> Release goes to negative
 
 Exercise: Combine the two circuits to create an led you can turn on with your switch
+
+## 08.01.2025
+
+### 01 - Light Sensor
+TBD
 
