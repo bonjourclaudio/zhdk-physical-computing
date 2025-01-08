@@ -45,3 +45,7 @@ Exercise: Combine the two circuits to create an led you can turn on with your sw
 ### 01 - Light Sensor
 TBD
 
+### 02 - Lightstrip Control
+TBD
+Important -> make sure to define the correct driver of the LED
+
