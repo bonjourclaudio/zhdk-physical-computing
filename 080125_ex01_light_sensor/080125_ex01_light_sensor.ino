@@ -6,6 +6,7 @@ int sensorValue = 0;
 void setup() {
   Serial.begin(9600);
   pinMode(ledPin, OUTPUT); // LED OUT
+  pinMode(sensorPin, INPUT); // Light sensor IN
 }
 
 void loop() {
