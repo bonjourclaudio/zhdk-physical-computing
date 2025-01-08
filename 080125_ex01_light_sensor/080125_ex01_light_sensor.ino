@@ -13,11 +13,18 @@ void loop() {
 
   Serial.println(sensorValue);
 
+  int lightValue = map(sensorValue, 0, 1024, 0, 255);
+
+  analogWrite(ledPin, constrain(lightValue, 0, 255));
+
+/*
+  // Hardcode to turn led on or off after a certain threshold
+
   if (sensorValue >= 500 && sensorValue <= 1024) {
     digitalWrite(ledPin, HIGH);
   } else {
     digitalWrite(ledPin, LOW);
-  }
+  }*/
 
-  delay(1000);
+  delay(10);
 }
