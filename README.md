@@ -58,3 +58,5 @@ TBD
 #### 01.2 - Controling with a Potentiometer
 TBD
 
+#### 01.3 - Servo, Potentiometer + LED Strip
+TBD

@@ -10,14 +10,13 @@ int numOfPixels = 8;
 //   NEO_GRB     Pixels are wired for GRB bitstream (most NeoPixel products)
 //   NEO_RGB     Pixels are wired for RGB bitstream (v1 FLORA pixels, not v2)
 //   NEO_RGBW    Pixels are wired for RGBW bitstream (NeoPixel RGBW products)
-§
+
 Adafruit_NeoPixel pixels(numOfPixels, LEDPin, NEO_GRBW + NEO_KHZ800);
 
 void setup() {
   Serial.begin(9600);
 
   pinMode(potPin, INPUT);
-  pinMode(LEDPin, OUTPUT);
 
   pixels.begin();
 }
