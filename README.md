@@ -60,3 +60,6 @@ TBD
 
 #### 01.3 - Servo, Potentiometer + LED Strip
 TBD
+
+### 02 - IMU & LED
+TBD
