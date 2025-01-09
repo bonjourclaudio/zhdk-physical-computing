@@ -49,3 +49,12 @@ TBD
 TBD
 Important -> make sure to define the correct driver of the LED
 
+## 09.01.2025
+
+### 01 - Servo
+#### 01.1 - Back and Forth
+TBD
+
+#### 01.2 - Controling with a Potentiometer
+TBD
+
