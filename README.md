@@ -63,3 +63,8 @@ TBD
 
 ### 02 - IMU & LED
 TBD
+
+## 10.01.2025
+
+### 01 - Transistor with Lightbulb
+TBD
